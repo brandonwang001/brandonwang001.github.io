@@ -1,5 +1,4 @@
 ## BigDataInf
-Record famous repository.
 
 |Topic   | Content|
 | ------ | ------ |
