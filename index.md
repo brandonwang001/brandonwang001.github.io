@@ -1,3 +1,3 @@
-|Topic   | Content|
+|Topic                                                            |                                            Content|
 | ------ | ------ |
 |||
