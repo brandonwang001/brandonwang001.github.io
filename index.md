@@ -1,1 +1,4 @@
-https://github.com/brandonwang001/BigDataInf/blob/master/ConsistencyProtocol/Raft_Reading_Notes.md
+# Author
+
+## content
+- 1. [Raft中文版](https://github.com/brandonwang001/raft_translation)
