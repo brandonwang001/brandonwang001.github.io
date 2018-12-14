@@ -6,4 +6,4 @@
 - Now, Service in Bytedance.
 
 # Content
-- [Raft中文版](https://github.com/brandonwang001/raft_translation)Translated by brandonwang
+- [Raft中文版](https://github.com/brandonwang001/raft_translation)(Translated by brandonwang)
