@@ -1,5 +1,5 @@
 # Author
-**brandonwang**
+**Linqiang Wang(brandonwang)**
 
 - Graduated from XiDian University in 2016. 
 - 2016-2018 Responsible for Wechat Payment Background Research and Development. 
