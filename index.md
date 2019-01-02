@@ -7,3 +7,4 @@
 
 # Content
 - [Raft中文版](https://github.com/brandonwang001/raft_translation)(Translated by brandonwang)
+- [WAL fot Raft](https://github.com/brandonwang001/WAL)(Writeen by brandonwang)
