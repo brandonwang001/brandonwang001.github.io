@@ -14,3 +14,6 @@
 
 # 论文阅读笔记
 
+- [Dynamo](https://github.com/brandonwang001/PaperReading/blob/master/Dynamo论文读书笔记.pdf)
+
+- [X-Engine](https://github.com/brandonwang001/PaperReading/blob/master/X-Engine论文读书笔记.pdf)
