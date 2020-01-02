@@ -15,5 +15,4 @@
 # Paper Reading
 
 - [Dynamo](https://github.com/brandonwang001/PaperReading/blob/master/Dynamo论文读书笔记.pdf)(亚马逊高可用键值存储系统)
-
 - [X-Engine](https://github.com/brandonwang001/PaperReading/blob/master/X-Engine论文读书笔记.pdf)(阿里高可用交易存储系统)
