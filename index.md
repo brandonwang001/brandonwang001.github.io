@@ -12,8 +12,8 @@
 - [google spanner(全球分布式数据库)](https://github.com/brandonwang001/spanner_translation/blob/master/spanner.pdf)(Translated by brandonwang)
 - [一种支持高并发的海量交易系统架构](待完成)（待完成）
 
-# 论文阅读笔记
+# Paper Reading
 
-- [Dynamo](https://github.com/brandonwang001/PaperReading/blob/master/Dynamo论文读书笔记.pdf)
+- [Dynamo](https://github.com/brandonwang001/PaperReading/blob/master/Dynamo论文读书笔记.pdf)(亚马逊高可用键值存储系统)
 
-- [X-Engine](https://github.com/brandonwang001/PaperReading/blob/master/X-Engine论文读书笔记.pdf)
+- [X-Engine](https://github.com/brandonwang001/PaperReading/blob/master/X-Engine论文读书笔记.pdf)(阿里高可用交易存储系统)
