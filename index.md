@@ -11,6 +11,8 @@
 - [一种易扩展高可用的分布式订单系统架构](https://github.com/brandonwang001/HighAvailiableTradeSystem/blob/master/tradesystem1/tradesystem.pdf)(Writeen by brandonwang)
 -- Thanks to my tutors in wechat payment, Allen, Felix, Mandy, Crest, etc)
 
+- [支付系统的业务持续性计划](待完成)
+
 # Paper Reading
 
 - [Dynamo](https://github.com/brandonwang001/PaperReading/blob/master/Dynamo论文读书笔记.pdf)(亚马逊高可用键值存储系统)
